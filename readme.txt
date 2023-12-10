@@ -1,3 +1,1 @@
-'test'
-conflictブランチで変更
-test fetch
+update on local new
